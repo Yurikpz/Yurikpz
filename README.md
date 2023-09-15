@@ -1,21 +1,8 @@
-<img style-"margin-top: 40px;" align-"right" width-"400px" src-"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhzdGljZGhnbXJpMWtyYjc0NW51YnN4YTh4cXJheDEwbDV0bzhiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ULgNzpNvIuQAFmXzuD/.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&width=435&lines=Oi%2C+seja+bem+vindo(a)++)](https://git.io/typing-svg)<img src="[https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif](https://media.tenor.com/A7eequnhcGwAAAAM/hand.gif)](https://media.tenor.com/A7eequnhcGwAAAAM/hand.gif)" width="30px">
+<img style="margin-top: 40px;" align="right" width="400px" src="[[https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif(https://i.pinimg.com/originals/b1/ce/82/b1ce82897b9beba80e76d5e1fd760c75.gif)">
+### Me chamo Yuri e curso Sistemas de Informação na FURG em Rio Grande-RS.! 
+#
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,)](https://skillicons.dev)
 
-# Oi, seja bem vindo(a) <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhzdGljZGhnbXJpMWtyYjc0NW51YnN4YTh4cXJheDEwbDV0bzhiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ULgNzpNvIuQAFmXzuD/giphy.gif" width"30px">
-
-###Me chamo Yuri, tenho 20 anos e moro em Rio Grande-RS.!
 
 
-<!--
-**Yurikpz/Yurikpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
